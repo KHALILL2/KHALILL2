@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m Khalil, an IT specialist passionate about IoT, embedded systems, and software–hardware integration. I enjoy developing smart, efficient solutions.I focus on creating innovative, reliable systems that bridge technology and real-world impact.
 
 
