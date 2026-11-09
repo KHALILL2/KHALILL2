@@ -5,7 +5,7 @@
 <p align="center"><b>Khalil Muhammad</b> · IT Specialist<br/><sub>Borg Al Arab Technological University — IT Specialist (May 2026 – Present)
 CTU — IT Operations Lead (July 2026 – September 2026)</sub></p>
 
-<p align="center"><a href="https://github.com/khalill2">GitHub</a> · <a href="https://linktr.ee/khalill2">Website</a> · <a href="https://linkedin.com/in/https://linkedin/">LinkedIn</a> · <a href="mailto:khalil.business.50@gmail.com">Email</a></p>
+<p align="center"><a href="https://github.com/khalill2">GitHub</a> · <a href="https://linktr.ee/khalill2">Website</a> · <a href="https://www.linkedin.com/in/khalil-muhammad-ti/">LinkedIn</a> · <a href="mailto:khalil.business.50@gmail.com">Email</a></p>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
